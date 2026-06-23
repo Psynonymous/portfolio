@@ -1,0 +1,6 @@
+{
+  "name": "Entwickler Portfolio",
+  "description": "Ein handgefertigtes, hochgradig interaktives Portfolio für professionelle Webentwickler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
