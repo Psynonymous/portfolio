@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Portfolio - Psycho Holic | Full-Stack Web Developer
 
-# Run and deploy your AI Studio app
+Hamburg-based full-stack web developer portfolio focused on modern, performant web experiences with a strong emphasis on Next.js architecture and SaaS product development.
 
-This contains everything you need to run your app locally.
+## Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/089c6d4f-5c07-47c9-9215-78d938aa81a5
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Run Locally
+## Branch Workflow
 
-**Prerequisites:**  Node.js
+| Branch | Purpose |
+| --- | --- |
+| `main` | Production-ready code only |
+| `develop` | Integration branch for feature work |
+| `feature/*` | New feature development branches |
+| `hotfix/*` | Urgent production fixes |
 
+## Local Development
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Start development server:
    `npm run dev`
+
+## Live Demo
+
+[Vercel/GitHub Pages URL](https://example.com)
